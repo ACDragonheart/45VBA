@@ -6,7 +6,6 @@ var urlsToCache = [
     '/app.js',
     '/localforage.js',
     '/manifest.json',
-    '/favicon.ico',
     '/icon.png',
     '/build/44gba.js',
     '/build/44gba.wasm',
