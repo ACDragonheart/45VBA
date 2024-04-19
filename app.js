@@ -843,7 +843,7 @@ if ((lang == 'ja')) {
     $id('div-cht').hidden = true
 }
 
-if (location.origin == 'https://github.com/ACDragonheart/45VBAg') {
+if (location.origin == 'https://github.com/ACDragonheart/45VBA') {
     if (isSaveSupported) {
         // Register Service Worker
         if ('serviceWorker' in navigator) {
